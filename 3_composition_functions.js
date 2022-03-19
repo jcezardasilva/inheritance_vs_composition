@@ -28,7 +28,6 @@ console.log("I am Harry")
 harry.eat();
 harry.breathe();
 harry.trick();
-
 console.log("-----------")
 
 let liv = noviceMagician();

@@ -8,7 +8,8 @@ class Person  {
     swim(){
         console.log('I am swimming');
     } 
-}class Magician  extends Person{
+}
+class Magician  extends Person{
     trick() {
         console.log('I am doing a trick');
     }

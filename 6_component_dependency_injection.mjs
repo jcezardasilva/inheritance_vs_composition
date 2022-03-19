@@ -1,4 +1,4 @@
-import {eat,breathe,swim,trick} from "./logic.mjs";
+import {eat,breathe,swim,trick} from "./core.mjs";
 
 class Magician {
     constructor(props){
